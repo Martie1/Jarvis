@@ -1,0 +1,9 @@
+faster-whisper==1.1.1
+groq==0.15.0
+openai==1.59.8
+google-generativeai==0.5.4
+opencv-python==4.9.0.80
+Pillow==10.3.0
+PyAudio==0.2.14
+SpeechRecognition==3.10.1
+pyperclip==1.8.2
